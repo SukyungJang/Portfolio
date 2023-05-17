@@ -83,4 +83,4 @@
      - 기간 : 2023.05.01 ~ 2023.05.17
      - 내용 : Python을 활용한 통계 분석 및 웹 서비스 구현
      - 기여 : 탐색적 자료 분석, 모델링
-     - 링크 : https://github.com/jangsukyung/Project
+     - 링크 : https://github.com/SukyungJang/Store_Sales_Project
