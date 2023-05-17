@@ -4,7 +4,7 @@
 ## 1. 기본 정보
 
 - 이름 : 장수경
-- 이메일 : jangrich77@naver.com
+- 이메일 : jangcoding77@gmail.com
 - 블로그 : https://jangsukyung.github.io/
 
 
