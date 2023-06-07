@@ -8,6 +8,7 @@
 - 이름 : 장수경
 - 이메일 : jangcoding77@gmail.com
 - 블로그 : 
+  - <https://sukyungjang.github.io/> (현재)
   - <https://jangsukyung.github.io/> (이전)
 <br/>
 
