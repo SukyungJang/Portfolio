@@ -8,12 +8,12 @@
 - 이름 : 장수경
 - 이메일 : jangcoding77@gmail.com
 - 블로그 : 
-  - <https://sukyungjang.github.io/> (현재)
-  - <https://jangsukyung.github.io/> (이전)
+  - **<https://sukyungjang.github.io/>** (현재)
+  - **<https://jangsukyung.github.io/>** (이전)
 <br/>
 
 ## 2. 이력서
-- 링크 : <https://github.com/SukyungJang/Portfolio/blob/main/%EC%9D%B4%EB%A0%A5%EC%84%9C_%EC%9E%A5%EC%88%98%EA%B2%BD.pdf>
+- 링크 : **<https://github.com/SukyungJang/Portfolio/blob/main/%EC%9D%B4%EB%A0%A5%EC%84%9C_%EC%9E%A5%EC%88%98%EA%B2%BD.pdf>**
 
 <br/>
 
