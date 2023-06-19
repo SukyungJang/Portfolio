@@ -6,7 +6,7 @@
 더 나아가 빅데이터 전문가가 되기 위해 끊임없이 노력하고 있습니다.**
 
 - 이름 : 장수경
-- 이메일 : jangcoding77@gmail.com
+- 이메일 : **jangcoding77@gmail.com**
 - 블로그 : 
   - **<https://sukyungjang.github.io/>** (현재)
   - **<https://jangsukyung.github.io/>** (이전)
@@ -18,9 +18,18 @@
 <br/>
 
 ## 3. 팀 프로젝트
+ - 충청권 도시 양극화 프로젝트
+     - 언어 및 작업툴 : Python, VSCode, Jupyter Notebook
+     - 라이브러리 : scikit-learn, pandas, numpy, matplotlib, seaborn, plotly, geopandas, folium, mapboxgl, streamlit
+     - 인원 : 3명
+     - 기간 : 2023.05.22 ~ 2023.06.14 (4주)
+     - 내용 : 소득 분포 별 공간 분석 및 지도 시각화, 도시 양극화 지수 개발, 웹 서비스 구현
+     - 기여 : 기획, 공간 분석, 지도 시각화, 로지스틱 회귀분석, 웹 서비스 구현
+     - 링크 : <https://github.com/SukyungJang/Final_Project>
+
  - Kaggle Store Sales 대회 통계 분석 및 웹 서비스 구현
      - 언어 및 작업툴 : Python, VSCode, Jupyter Notebook, Flourish
-     - 라이브러리 : scikit-learn, pandas, numpy, matplotlib, seaborn, plotly
+     - 라이브러리 : scikit-learn, pandas, numpy, matplotlib, seaborn, plotly, streamlit
      - 인원 : 5명
      - 기간 : 2023.05.01 ~ 2023.05.17 (2주)
      - 내용 : Python을 활용한 통계 분석 및 웹 서비스 구현
